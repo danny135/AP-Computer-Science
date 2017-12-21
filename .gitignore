@@ -1,6 +1,10 @@
 *.docx
-*.settings/*
+.settings/
 *.classpath
 *.project
-*bin/*
-*doc/*
+bin/
+doc/
+.metadata/
+*.pdf
+*.uxf
+*.png
