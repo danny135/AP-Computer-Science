@@ -1,0 +1,6 @@
+*.docx
+*.settings/*
+*.classpath
+*.project
+*bin/*
+*doc/*
